@@ -2,12 +2,6 @@
 
 A sleek, responsive animated cursor effect that follows your mouse with a glowing shadow trail — built with pure HTML, CSS, and JavaScript.
 
-![Demo Preview](preview.gif) <!-- Optional GIF or image -->
-
-## 🚀 Live Demo
-
-[🔗 View Live Project](https://your-live-site-link.com)
-
 ---
 
 ## ✨ Features
